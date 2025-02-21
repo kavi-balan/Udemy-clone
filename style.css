@@ -179,8 +179,8 @@ body{
 }
 
 .topics__container p:hover{
-    background-color: #A435F0;
-    
+    background-color:rgb(237, 24, 177);
+    transition: 2s;
 }
 
 .popular{
