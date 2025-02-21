@@ -177,6 +177,7 @@ body{
     flex-grow: 1;
     flex-basis: 25%;
     border-radius: 50px;
+    text-align: center;
 }
 
 .topics__container p:hover{
