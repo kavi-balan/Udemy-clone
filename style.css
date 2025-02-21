@@ -176,10 +176,11 @@ body{
     padding: 20px;
     flex-grow: 1;
     flex-basis: 25%;
+    border-radius: 50px;
 }
 
 .topics__container p:hover{
-    background-color:rgb(237, 24, 177);
+    background-color: lightgray;
     transition: 2s;
 }
 
